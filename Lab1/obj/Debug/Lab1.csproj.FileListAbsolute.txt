@@ -1,0 +1,10 @@
+E:\BNTU\2курс\АСД\Lab1\bin\Debug\Lab1.exe.config
+E:\BNTU\2курс\АСД\Lab1\bin\Debug\Lab1.exe
+E:\BNTU\2курс\АСД\Lab1\bin\Debug\Lab1.pdb
+E:\BNTU\2курс\АСД\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+E:\BNTU\2курс\АСД\Lab1\obj\Debug\Lab1.Form1.resources
+E:\BNTU\2курс\АСД\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+E:\BNTU\2курс\АСД\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+E:\BNTU\2курс\АСД\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+E:\BNTU\2курс\АСД\Lab1\obj\Debug\Lab1.exe
+E:\BNTU\2курс\АСД\Lab1\obj\Debug\Lab1.pdb

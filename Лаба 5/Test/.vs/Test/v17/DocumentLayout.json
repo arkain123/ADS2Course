@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pasha\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0410\u0418\u0421\u0414\\\u041B\u0430\u0431\u0430 5\\Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E524CA5-CC71-4EAB-BDC3-D99A77E13A31}|Test\\Test.vcxproj|C:\\Users\\pasha\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0410\u0418\u0421\u0414\\\u041B\u0430\u0431\u0430 5\\Test\\Test\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E524CA5-CC71-4EAB-BDC3-D99A77E13A31}|Test\\Test.vcxproj|solutionrelative:Test\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 265,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\pasha\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0410\u0418\u0421\u0414\\\u041B\u0430\u0431\u0430 5\\Test\\Test\\Source.cpp",
+              "RelativeDocumentMoniker": "Test\\Source.cpp",
+              "ToolTip": "C:\\Users\\pasha\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\4 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0410\u0418\u0421\u0414\\\u041B\u0430\u0431\u0430 5\\Test\\Test\\Source.cpp",
+              "RelativeToolTip": "Test\\Source.cpp",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAowGYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-31T20:34:49.648Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

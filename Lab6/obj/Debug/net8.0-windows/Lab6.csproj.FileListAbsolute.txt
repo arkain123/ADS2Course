@@ -1,0 +1,16 @@
+E:\BNTU\2курс\АСД\Lab6\bin\Debug\net8.0-windows\Lab6.exe
+E:\BNTU\2курс\АСД\Lab6\bin\Debug\net8.0-windows\Lab6.deps.json
+E:\BNTU\2курс\АСД\Lab6\bin\Debug\net8.0-windows\Lab6.runtimeconfig.json
+E:\BNTU\2курс\АСД\Lab6\bin\Debug\net8.0-windows\Lab6.dll
+E:\BNTU\2курс\АСД\Lab6\bin\Debug\net8.0-windows\Lab6.pdb
+E:\BNTU\2курс\АСД\Lab6\obj\Debug\net8.0-windows\Lab6.Form1.resources
+E:\BNTU\2курс\АСД\Lab6\obj\Debug\net8.0-windows\Lab6.csproj.GenerateResource.cache
+E:\BNTU\2курс\АСД\Lab6\obj\Debug\net8.0-windows\Lab6.GeneratedMSBuildEditorConfig.editorconfig
+E:\BNTU\2курс\АСД\Lab6\obj\Debug\net8.0-windows\Lab6.AssemblyInfoInputs.cache
+E:\BNTU\2курс\АСД\Lab6\obj\Debug\net8.0-windows\Lab6.AssemblyInfo.cs
+E:\BNTU\2курс\АСД\Lab6\obj\Debug\net8.0-windows\Lab6.csproj.CoreCompileInputs.cache
+E:\BNTU\2курс\АСД\Lab6\obj\Debug\net8.0-windows\Lab6.dll
+E:\BNTU\2курс\АСД\Lab6\obj\Debug\net8.0-windows\refint\Lab6.dll
+E:\BNTU\2курс\АСД\Lab6\obj\Debug\net8.0-windows\Lab6.pdb
+E:\BNTU\2курс\АСД\Lab6\obj\Debug\net8.0-windows\Lab6.genruntimeconfig.cache
+E:\BNTU\2курс\АСД\Lab6\obj\Debug\net8.0-windows\ref\Lab6.dll

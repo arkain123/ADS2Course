@@ -1,0 +1,20 @@
+E:\BNTU\2 курс\АСД\TrueLab1\bin\Debug\TrueLab1.exe.config
+E:\BNTU\2 курс\АСД\TrueLab1\bin\Debug\TrueLab1.exe
+E:\BNTU\2 курс\АСД\TrueLab1\bin\Debug\TrueLab1.pdb
+E:\BNTU\2 курс\АСД\TrueLab1\obj\Debug\TrueLab1.csproj.AssemblyReference.cache
+E:\BNTU\2 курс\АСД\TrueLab1\obj\Debug\TrueLab1.Form1.resources
+E:\BNTU\2 курс\АСД\TrueLab1\obj\Debug\TrueLab1.Properties.Resources.resources
+E:\BNTU\2 курс\АСД\TrueLab1\obj\Debug\TrueLab1.csproj.GenerateResource.cache
+E:\BNTU\2 курс\АСД\TrueLab1\obj\Debug\TrueLab1.csproj.CoreCompileInputs.cache
+E:\BNTU\2 курс\АСД\TrueLab1\obj\Debug\TrueLab1.exe
+E:\BNTU\2 курс\АСД\TrueLab1\obj\Debug\TrueLab1.pdb
+E:\BNTU\2курс\АСД\TrueLab1\bin\Debug\TrueLab1.exe.config
+E:\BNTU\2курс\АСД\TrueLab1\bin\Debug\TrueLab1.exe
+E:\BNTU\2курс\АСД\TrueLab1\bin\Debug\TrueLab1.pdb
+E:\BNTU\2курс\АСД\TrueLab1\obj\Debug\TrueLab1.csproj.AssemblyReference.cache
+E:\BNTU\2курс\АСД\TrueLab1\obj\Debug\TrueLab1.Form1.resources
+E:\BNTU\2курс\АСД\TrueLab1\obj\Debug\TrueLab1.Properties.Resources.resources
+E:\BNTU\2курс\АСД\TrueLab1\obj\Debug\TrueLab1.csproj.GenerateResource.cache
+E:\BNTU\2курс\АСД\TrueLab1\obj\Debug\TrueLab1.csproj.CoreCompileInputs.cache
+E:\BNTU\2курс\АСД\TrueLab1\obj\Debug\TrueLab1.exe
+E:\BNTU\2курс\АСД\TrueLab1\obj\Debug\TrueLab1.pdb
